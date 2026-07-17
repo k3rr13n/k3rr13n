@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning C++ for create Geometry Dash mods
+  * If I can improve my skill in this language... I'll do it
+
+- ⚡ **Fun fact**: Paillasson, François, Donatien and Radish (clear... right?)
+
+![Img](./20260430_112457.webp)
