@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning C++ for create Geometry Dash mods
-  * If I can improve my skill in this language... I'll do it
+  * If I can improve my skill in this language... ***I'll do it***
 
 - ⚡ **Fun fact**: Paillasson, François, Donatien and Radish (clear... right?)
 
