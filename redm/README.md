@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+desc = always r̶e̶a̶s̶o̶n̶a̶b̶l̶e... ready for a new stupid project 
 -->
 - 🌱 I’m currently learning C++ for create Geometry Dash mods
   * If I can improve my skill in this language... ***I'll do it***
